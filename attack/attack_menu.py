@@ -1,9 +1,4 @@
-# ################################################################################
-# ## DATE: 2019-26-07
-# ## AUTHOR: Óscar J. Rubio
-# ##
-# ################################################################################
-# ## 1.0 initial release
+
 
 from common_utils import menu_utils
 from common_utils import var_utils
